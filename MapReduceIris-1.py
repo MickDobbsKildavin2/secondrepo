@@ -11,7 +11,6 @@ species="Iris-virginica"
 
 class MRProb2_3(MRJob):
 
-                     
                     
     def steps(self):
         return [

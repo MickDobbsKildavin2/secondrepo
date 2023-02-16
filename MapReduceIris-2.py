@@ -10,7 +10,6 @@ occupation="Prof-specialty"
 occupation="Exec-managerial"
 
 class MRProb2_3(MRJob):
-
                     
     def steps(self):
         return [

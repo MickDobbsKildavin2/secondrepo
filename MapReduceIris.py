@@ -6,7 +6,6 @@ import re
 
 DATA_RE = re.compile(r"[\w.-]+")
 
-
 class MRProb2_3(MRJob):
 
 
